@@ -1,0 +1,76 @@
+body
+{
+background-color:white;
+padding:10px;
+}
+h1
+{
+margin:0px;
+text-align:center;
+font-family:cambria solid;
+font-size:36pt;
+color:red;
+}
+h2
+{
+margin:0px;
+text-align:left;
+font-family:"Cambria" solid;
+font-size:24pt;
+color:purple;
+text-decoration: underline;
+}
+h3
+{
+margin-top:25px;
+margin-bottom:5px;
+text-align:left;
+font-family:"Cambria" solid;
+font-size:20pt;
+color:green;
+text-decoration:underline;
+}
+table
+{
+border:2px solid;
+padding:0px;
+}
+th
+{
+border:1px solid blue;
+padding:8px;
+}
+td
+{
+border:1px solid blue;
+padding:8px;
+}
+ol
+{
+font-size:90%;
+list-style:numeric;
+color:maroon;
+}
+span{
+background-color:#grey;
+font-size:120%;
+font-style:italic;
+}
+p{
+font-size:12pt;
+margin-left:5px;
+text-indent:10px;
+color:lime;
+}
+a
+{
+text-decoration:none;
+}
+small
+{
+font-size:50%;
+}
+.center
+{
+text-align:center;
+}

@@ -1,0 +1,11 @@
+input[type=”text”]{
+    color:black;
+}
+
+input[type=”button”]{
+    background-color:white;
+}
+
+body{
+    background-color:green;
+}
