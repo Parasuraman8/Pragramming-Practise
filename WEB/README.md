@@ -1,4 +1,4 @@
-# Programming in web tech practise
+# web tech practise
 
 --> HTML
 --> CSS
